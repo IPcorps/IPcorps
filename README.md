@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-...what else to tell about 🤔
+...what else to tell about? 🤔
 
 <!---
 IPcorps/IPcorps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
