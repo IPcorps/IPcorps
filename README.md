@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=IPcorps&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true&cache_seconds=86400"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=IPcorps&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true&cache_seconds=10800"/>
 
 - 👋 Hi, I’m Igor 🤠
 - 👀 I’m interested in ...
